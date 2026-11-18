@@ -228,7 +228,21 @@ jobs:
 
       - name: Disable current workflow and enable next one
         run: |
-          gh workflow disable "${{github.workflow}}"
-          gh workflow enable "Step 3"
+          retry_gh_workflow() {
+            for attempt in 1 2 3 4 5; do
+              if gh workflow "$@"; then
+                return 0
+              fi
+              if [ "$attempt" -lt 5 ]; then
+                delay=$((2 ** (attempt - 1)))
+                echo "Retrying in ${delay}s (attempt $((attempt + 1))/5): gh workflow $*" >&2
+                sleep "$delay"
+              fi
+            done
+            return 1
+          }
+
+          retry_gh_workflow disable "${{github.workflow}}"
+          retry_gh_workflow enable "Step 3"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
