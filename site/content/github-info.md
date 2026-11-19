@@ -17,7 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Recent updates worth watching
 
-Updated 2026-11-18.
+Updated 2026-11-19.
 
 ### GitHub Blog
 
@@ -28,6 +28,10 @@ Updated 2026-11-18.
 
 ### GitHub Changelog
 
+- [Wait for pull request events with GitHub CLI](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli): script your pull request workflow by waiting on events from the terminal. (Source: GitHub Changelog)
+- [Customize GitHub Copilot for your team](https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team): tailor Copilot to your team's conventions. (Source: GitHub Changelog)
+- [Connect Supabase, Box, Calendly, and more to Copilot](https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot): new integrations for Copilot. (Source: GitHub Changelog)
+- [Gemini 4 Neon in GitHub Copilot](https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot): another model choice in Copilot. (Source: GitHub Changelog)
 - [Copilot code review: Adaptive effort, secret detection, and more](https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more) (Source: GitHub Changelog)
 - [Track Copilot code review outcomes in Repository insights](https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights) (Source: GitHub Changelog)
 - [GitHub Copilot CLI adds Microsoft Entra sign-in as a preview](https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview) (Source: GitHub Changelog)
