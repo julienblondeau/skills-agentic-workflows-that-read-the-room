@@ -17,7 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Recent updates worth watching
 
-Updated 2026-11-18.
+Updated 2026-11-21.
 
 ### GitHub Blog
 
@@ -26,13 +26,16 @@ Updated 2026-11-18.
 - [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/): how agent sessions can follow you between devices. (Source: GitHub Blog)
 - [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/): pick up a Copilot session in your editor. (Source: GitHub Blog)
 
+- [Maintainers don't need more AI bug reports, they need fixes](https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/): how AI can help with fixes, not just reports. (Source: GitHub Blog)
+
 ### GitHub Changelog
 
+- [Pin your favorite repositories to your dashboard](https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard): jump back into the repos you use most. (Source: GitHub Changelog)
+- [Improvements on the pull request overview in public preview](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview): a clearer starting point for reviewing pull requests. (Source: GitHub Changelog)
+- [Wait for pull request events with GitHub CLI](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli): script around pull request activity from the terminal. (Source: GitHub Changelog)
+- [Customize GitHub Copilot for your team](https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team): tailor Copilot to how your team works. (Source: GitHub Changelog)
 - [Copilot code review: Adaptive effort, secret detection, and more](https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more) (Source: GitHub Changelog)
-- [Track Copilot code review outcomes in Repository insights](https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights) (Source: GitHub Changelog)
-- [GitHub Copilot CLI adds Microsoft Entra sign-in as a preview](https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview) (Source: GitHub Changelog)
 - [OpenAI's GPT-6.2 Astra and GPT-6.2 Sol now available](https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available): new model choices in GitHub Copilot. (Source: GitHub Changelog)
-- [MAI Code 2 and MAI Code 2 Flash in GitHub Copilot](https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot) (Source: GitHub Changelog)
 - [GitHub Copilot Evals is now in public preview](https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview) (Source: GitHub Changelog)
 
 ### Awesome Copilot workflows
