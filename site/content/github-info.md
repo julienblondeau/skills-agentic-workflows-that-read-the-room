@@ -17,10 +17,12 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Recent updates worth watching
 
-Updated 2026-11-18.
+Updated 2026-11-22.
 
 ### GitHub Blog
 
+- [GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/): the big picture of where GitHub is heading. (Source: GitHub Blog)
+- [Maintainers don’t need more AI bug reports. They need fixes.](https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/): what useful AI help looks like for open source projects. (Source: GitHub Blog)
 - [A developer's guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/): a practical look at working with AI agents beyond code generation. (Source: GitHub Blog)
 - [Build once, run on any agent: a practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/): how to package reusable skills for your agents. (Source: GitHub Blog)
 - [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/): how agent sessions can follow you between devices. (Source: GitHub Blog)
@@ -28,6 +30,10 @@ Updated 2026-11-18.
 
 ### GitHub Changelog
 
+- [Pin your favorite repositories to your dashboard](https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard): quick access to the repos you use most. (Source: GitHub Changelog)
+- [Improvements on the pull request overview in public preview](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview): a clearer way to review pull requests. (Source: GitHub Changelog)
+- [Wait for pull request events with GitHub CLI](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli): script around PR activity from the terminal. (Source: GitHub Changelog)
+- [Customize GitHub Copilot for your team](https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team) (Source: GitHub Changelog)
 - [Copilot code review: Adaptive effort, secret detection, and more](https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more) (Source: GitHub Changelog)
 - [Track Copilot code review outcomes in Repository insights](https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights) (Source: GitHub Changelog)
 - [GitHub Copilot CLI adds Microsoft Entra sign-in as a preview](https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview) (Source: GitHub Changelog)
@@ -37,4 +43,4 @@ Updated 2026-11-18.
 
 ### Awesome Copilot workflows
 
-Sample agentic workflows you can learn from, such as `daily-issues-report`, `weekly-comment-sync`, and `relevance-check`, plus repository health examples like `ospo-org-health` and `ospo-stale-repos`, in the [workflows collection](https://github.com/github/awesome-copilot/tree/main/workflows). (Source: Awesome Copilot)
+Sample agentic workflows you can learn from, such as `daily-issues-report`, `weekly-comment-sync`, and `relevance-check`, plus repository health examples like `ospo-org-health`, `ospo-stale-repos`, and `ospo-release-compliance-checker`, in the [workflows collection](https://github.com/github/awesome-copilot/tree/main/workflows). (Source: Awesome Copilot)
