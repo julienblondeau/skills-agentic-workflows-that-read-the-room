@@ -17,7 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Recent updates worth watching
 
-Updated 2026-11-18.
+Updated 2026-11-23.
 
 ### GitHub Blog
 
@@ -26,8 +26,13 @@ Updated 2026-11-18.
 - [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/): how agent sessions can follow you between devices. (Source: GitHub Blog)
 - [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/): pick up a Copilot session in your editor. (Source: GitHub Blog)
 
+- [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/): how Git storage is evolving to handle agent-scale traffic. (Source: GitHub Blog)
+
 ### GitHub Changelog
 
+- [Issue statuses and repository boards are in public preview](https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview): track issue progress right inside a repository. (Source: GitHub Changelog)
+- [Wait for pull request events with GitHub CLI](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli): script around PR activity from the terminal. (Source: GitHub Changelog)
+- [Improvements on the pull request overview in public preview](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview) (Source: GitHub Changelog)
 - [Copilot code review: Adaptive effort, secret detection, and more](https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more) (Source: GitHub Changelog)
 - [Track Copilot code review outcomes in Repository insights](https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights) (Source: GitHub Changelog)
 - [GitHub Copilot CLI adds Microsoft Entra sign-in as a preview](https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview) (Source: GitHub Changelog)
@@ -37,4 +42,4 @@ Updated 2026-11-18.
 
 ### Awesome Copilot workflows
 
-Sample agentic workflows you can learn from, such as `daily-issues-report`, `weekly-comment-sync`, and `relevance-check`, plus repository health examples like `ospo-org-health` and `ospo-stale-repos`, in the [workflows collection](https://github.com/github/awesome-copilot/tree/main/workflows). (Source: Awesome Copilot)
+Sample agentic workflows you can learn from, such as `daily-issues-report`, `weekly-comment-sync`, and `relevance-check`, plus repository health examples like `ospo-org-health`, `ospo-stale-repos`, and `ospo-release-compliance-checker`, in the [workflows collection](https://github.com/github/awesome-copilot/tree/main/workflows). (Source: Awesome Copilot)
