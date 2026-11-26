@@ -17,10 +17,12 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Recent updates worth watching
 
-Updated 2026-11-18.
+Updated 2026-11-26.
 
 ### GitHub Blog
 
+- [How AI code generation works](https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/): a primer on what happens behind AI-generated code. (Source: GitHub Blog)
+- [How to choose the next safe step in application modernization](https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/): picking low-risk steps when modernizing with Copilot. (Source: GitHub Blog)
 - [A developer's guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/): a practical look at working with AI agents beyond code generation. (Source: GitHub Blog)
 - [Build once, run on any agent: a practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/): how to package reusable skills for your agents. (Source: GitHub Blog)
 - [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/): how agent sessions can follow you between devices. (Source: GitHub Blog)
@@ -28,6 +30,10 @@ Updated 2026-11-18.
 
 ### GitHub Changelog
 
+- [Issue statuses and repository boards are in public preview](https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview): track issue progress right in your repository. (Source: GitHub Changelog)
+- [More predictable notifications on GitHub.com](https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com) (Source: GitHub Changelog)
+- [Pin your favorite repositories to your dashboard](https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard) (Source: GitHub Changelog)
+- [Wait for pull request events with GitHub CLI](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli) (Source: GitHub Changelog)
 - [Copilot code review: Adaptive effort, secret detection, and more](https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more) (Source: GitHub Changelog)
 - [Track Copilot code review outcomes in Repository insights](https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights) (Source: GitHub Changelog)
 - [GitHub Copilot CLI adds Microsoft Entra sign-in as a preview](https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview) (Source: GitHub Changelog)
